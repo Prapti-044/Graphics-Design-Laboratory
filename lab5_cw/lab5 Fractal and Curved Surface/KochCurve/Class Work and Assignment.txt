@@ -1,0 +1,17 @@
+Classwork:
+Koch Snowflake
+https://en.wikipedia.org/wiki/Koch_snowflake
+Create other pattern from the pdf file.
+
+Assignment:
+1. Create one of the following 2d fractal pattern and the fractal on your wall.
+Fractals:
+Sierpinski gasket Triangle: https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
+Sierpinski Carpet: https://en.wikipedia.org/wiki/Sierpinski_carpet
+Barnsley farn:  https://en.wikipedia.org/wiki/Barnsley_fern
+T-Square Fractal: https://en.wikipedia.org/wiki/T-square_(fractal)
+N-Flake: https://en.wikipedia.org/wiki/N-flake
+Fractal Canopy: https://en.wikipedia.org/wiki/Fractal_canopy
+Menger Sponge: https://en.wikipedia.org/wiki/Menger_sponge
+
+https://www.diygenius.com/fractals-in-nature/
